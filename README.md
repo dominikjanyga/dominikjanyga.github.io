@@ -1,11 +1,11 @@
 # dominikjanyga
 
-###Education
+### Education
 MSc 
 
-###Work experience
+### Work experience
 BNY
 PWC
 
-###Projects
+### Projects
 Network analysis of the polish stock exchange
