@@ -5,15 +5,13 @@
 ### Projects
 
 [Network Analysis of the Polish Stock Market](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/network.png?raw=true"/>
 
 ---
 [Expense Split](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Data Science Notes](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
