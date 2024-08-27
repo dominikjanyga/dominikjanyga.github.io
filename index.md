@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Network Analysis of the Polish Stock Market](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">© 2024 Dominik Janyga. Powered by Jekyll and the Minimal Theme.</a></p>
 <!-- Remove above link if you don't want to attibute -->
