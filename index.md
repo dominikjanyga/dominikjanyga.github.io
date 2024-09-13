@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Network Analysis of the Polish Stock Market](/_pages/network_analysis)
+[Network Analysis of the Polish Stock Market](https://github.com/dominikjanyga/dominikjanyga.github.io/blob/main/_pages/network_analysis.md)
 <img src="images/network.png?raw=true"/>
 
 ---
