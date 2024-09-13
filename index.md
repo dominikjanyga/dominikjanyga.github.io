@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Network Analysis of the Polish Stock Market](/sample_page)
+[Network Analysis of the Polish Stock Market](/_pages/network_analysis)
 <img src="images/network.png?raw=true"/>
 
 ---
