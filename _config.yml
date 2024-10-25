@@ -1,7 +1,9 @@
 title: <p align="center">Dominik Janyga </p> 
 logo: "/images/profile.png?raw=true"
-description: I hold an MS in Business Informatics and am passionate about transforming data into actionable insights. 
-I enjoy uncovering patterns and building predictive models to drive business decisions.
+description: I hold an MS in Business Informatics and am passionate about transforming data into actionable insights. |
+             I enjoy uncovering patterns and building predictive models to drive business decisions.
+
+links: 
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/dominik-janyga/">LinkedIn</a> |
