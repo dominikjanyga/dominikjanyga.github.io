@@ -1,16 +1,20 @@
-## Network analysis of the polish stock companies
+# Network analysis of the polish stock companies
 
 **Project description:** Due to its growing popularity and application in many fields, network analysis is a key tool for understanding complex relationships and structures.
 
-# 1. [Data collection]
-# 2. [Network analysis]
+
+## Contents
+1. [Data Collection](#1-data-collection)
+2. [Data Cleaning](#2-data-cleaning)
+3. [Network Analysis and Testing](#3-network-analysis-and-testing)
+4. [Conclusion](#4-conclusion)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
+```python
+import pandas as pd
+import numpy as np
+import yfinance as yf
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
