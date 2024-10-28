@@ -4,7 +4,7 @@
 
 
 ## Contents
-1. [Data Collection](#1-Data collection of polish stock companies using pandas and yfinance libraries.)
+1. [Data Collection](#1-data-collection)
 2. [Data Cleaning](##2-data-cleaning)
 3. [Network Analysis and Testing](##3-network-analysis-and-testing)
 4. [Conclusion](##4-conclusion)
