@@ -11,6 +11,8 @@
 
 ## 1. Data collection of polish stock companies using pandas and yfinance libraries.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dominikjanyga/network-analysis/blob/main/1_network_analysis_data_collection.ipynb)
+
 ### Loading libraries.
 
 In the first step, I imported libraries which will be helpful in data scraping and processing. I used `pandas` to read HTML tables from the [Stooq website](https://stooq.pl/), which lists all the components of the WIG index. Additionally, I used the `yfinance` library to obtain financial information on companies listed on the Warsaw Stock Exchange (WSE).
