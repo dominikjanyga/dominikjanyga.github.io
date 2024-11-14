@@ -11,11 +11,26 @@
 
 ## 1. Data collection of polish stock companies using pandas and yfinance libraries.
 
+### Loading libraries.
+
+In the first step, I imported libraries which will be helpful in data scraping and processing. I used `pandas` to read HTML tables from the [Stooq website](https://stooq.pl/), which lists all the components of the WIG index. Additionally, I used the `yfinance` library to obtain financial information on companies listed on the Warsaw Stock Exchange (WSE).
+
 ```python
 import pandas as pd
 import yfinance as yf
 ```
-Here, I am using a function that reads the HTML table from the stooq webpage. The goal is to obtain all ticker symbols for the companies that are listed on the Warsaw Stock Exchange and save them all to the empty list.
+
+I mount Google Drive in a Google Colab environment. All the future data will be saved in my google drive, making it easy to access and load datasets. 
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+### Collecting Ticker Symbols from Stooq
+
+This step involves scraping ticker symbols for companies listed on the Warsaw Stock Exchange. By looping through Stooq’s HTML tables, I extract each ticker symbol, which represents a stock listed in the WSE, and save it to a list for later use.
+
 ```python
 ticker_list = []
 
