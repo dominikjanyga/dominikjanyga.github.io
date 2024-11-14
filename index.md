@@ -8,7 +8,7 @@
 
 Network analysis of Polish stock companies involves examining the relationships and interconnections among publicly traded firms on the Warsaw Stock Exchange (WSE). By representing companies as nodes and their financial or ownership relationships as links, network analysis provides insights into the structural dynamics and dependencies within the Polish stock market
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dominikjanyga/network-analysis)
+[![Open Notebooks](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/dominikjanyga/network-analysis/tree/main/) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dominikjanyga/network-analysis)
 
 <img src="images/network.png?raw=true"/>
 
