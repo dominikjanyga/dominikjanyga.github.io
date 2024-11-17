@@ -47,14 +47,11 @@ len(ticker_list)
 ```
 ## 2. Data Cleaning
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dominikjanyga/network-analysis/blob/main/2_network_analysis_data_cleaning.ipynb)
 
 ### 3. Network Analysis and Testing
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dominikjanyga/network-analysis/blob/main/3_network_analysis_testing.ipynb)
 
 
 ### 4. Conclusion
